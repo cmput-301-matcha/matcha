@@ -6,5 +6,6 @@ public abstract class Shape {
 
 <<<<<<< HEAD
     String color = "black";
+
 }
 
